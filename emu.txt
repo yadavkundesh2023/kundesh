@@ -1,2 +1,2 @@
 cd: C:\Users\admin\AppData\Local\Android\Sdk\emulator>
-emulator.exe -avd Demo
+emulator.exe -avd Demo kundesh
